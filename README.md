@@ -10,3 +10,7 @@ The conversion was made possible thanks to ToxicFrog et al.'s fantastic [Ligatur
 * Imported `*`, `/`, `\`, `|`, `_` from Fira Code
 * Removed 'fi' and 'fl' ligatures to improve clarity
 * Applied some gentle hinting using [ttfautohint](http://freetype.org/ttfautohint/)
+
+### Screenshot
+
+![Code snippet](misc/screenshot_1.png)
